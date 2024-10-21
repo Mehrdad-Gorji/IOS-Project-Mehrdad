@@ -10,6 +10,8 @@ import SwiftUI
 struct TestReza: View {
     var body: some View {
         Text("Reza ist hier")
+            .font(.largeTitle)
+        
     }
 }
 
